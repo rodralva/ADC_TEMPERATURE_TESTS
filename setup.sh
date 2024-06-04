@@ -1,0 +1,1 @@
+sshfs sbnd-mon01:/root/FRAN_RODRIGO_TESTS mnt/

@@ -1,0 +1,110 @@
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
+Error: Write failed
+Error: Read failed
+Traceback (most recent call last):
+  File "TempC-F.py", line 15, in <module>
+    GetTemp(1)
+  File "TempC-F.py", line 11, in GetTemp
+    b=subprocess.check_output(["i2cget","-y","2","0x48", "0", "w"])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['i2cget', '-y', '2', '0x48', '0', 'w']' returned non-zero exit status 2
